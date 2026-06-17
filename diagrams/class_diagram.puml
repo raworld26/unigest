@@ -1,0 +1,91 @@
+@startuml
+abstract class Persona {
+    # String nome
+    # String cognome
+    # String email
+    # String password
+}
+class Studenti {
+    - String matricola
+    - AnnoAccademico annoDiCorso
+    - TipoLaurea tipologiaLaurea
+    - List<EsameSostenuto> listaEsami
+    - CorsiLaurea corsoDiLaurea
+    + assegnaMatricolaUnica()
+    + haEsamiSostenuti() : boolean
+}
+class Docenti {
+    - String idDocente
+    - TipoDocente ruolo
+    - List<Insegnamenti> insegnamenti
+    - List<Appello> appelli
+    - List<EsameSostenuto> esamiRegistrati
+    - List<Verbali> verbali
+    + assegnaIDUnico()
+    + aggiungiInsegnamento()
+    + rimuoviInsegnamento()
+}
+class CorsiLaurea {
+    - String nome
+    - String codice
+    - List<Insegnamenti> insegnamenti
+    - List<Studenti> studentiIscritti
+}
+class Insegnamenti {
+    - String nome
+    - String codiceInsegnamento
+    - int cfu
+    - List<Docenti> docenti
+    - CorsiLaurea corsoDiLaurea
+    - List<Appello> appelli
+    + aggiungiDocente()
+    + rimuoviDocente()
+    + aggiungiAppello()
+}
+class Appello {
+    - Insegnamenti insegnamento
+    - LocalDate dataEsame
+    - LocalDate dataChiusuraIscrizione
+    - LocalDate dataApertura
+    - int numeroMassimoStudenti
+    - String luogo
+    - StatoAppello stato
+    - List<Iscrizione> iscrizioni
+    + isScaduto() : boolean
+    + isIscrizioneAperta() : boolean
+    + getPostiDisponibili() : int
+}
+class Iscrizione {
+    - Studenti studente
+    - Appello appello
+    - LocalDate dataIscrizione
+}
+class EsameSostenuto {
+    - Insegnamenti insegnamento
+    - int voto
+    - boolean lode
+    - int cfu
+    - LocalDate data
+}
+class Verbali {
+    - Insegnamenti insegnamento
+    - List<EsameSostenuto> esami
+    - LocalDate data
+}
+class AuleEdifici {
+    - String nomeAula
+    - int capienza
+}
+
+Persona <|-- Studenti
+Persona <|-- Docenti
+Studenti "1" --> "1" CorsiLaurea : iscritto
+Studenti "1" --> "*" EsameSostenuto : ha
+CorsiLaurea "1" --> "*" Insegnamenti : comprende
+Insegnamenti "*" -- "*" Docenti : tenuto da
+Insegnamenti "1" --> "*" Appello : prevede
+Appello "1" --> "*" Iscrizione : riceve
+Iscrizione "*" --> "1" Studenti : effettua
+Verbali "1" --> "*" EsameSostenuto : contiene
+Verbali "1" --> "1" Insegnamenti : relativo a
+@enduml

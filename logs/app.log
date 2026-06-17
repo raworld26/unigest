@@ -1,0 +1,344 @@
+2026-02-12 15:35:02 DEBUG i.u.d.lpo.dominiouniversitario.App - Avvio applicazione in corso...
+2026-02-12 15:35:03 DEBUG i.u.d.l.d.s.methods.GestioneStudenti - Istanza GestioneStudenti creata (dati non ancora caricati)
+2026-02-12 15:35:03 INFO  i.u.d.l.d.s.methods.GestioneStudenti - Inizializzazione dati studenti...
+2026-02-12 15:35:03 INFO  i.u.d.l.d.s.methods.GestioneStudenti - Tentativo di caricamento degli studenti...
+2026-02-12 15:35:03 DEBUG i.u.d.l.d.s.methods.GestioneStudenti - Studenti caricati con successo dal JSON: studenti.json
+2026-02-12 15:35:03 INFO  i.u.d.l.d.s.methods.GestioneStudenti - Dati degli studenti inseriti nella mappa con successo!
+2026-02-12 15:35:03 INFO  i.u.d.l.d.s.methods.GestioneStudenti - Dati studenti inizializzati con successo: 5 studenti caricati
+2026-02-12 15:35:03 INFO  i.u.d.l.d.s.methods.GestioneStudenti - Recupero lista studenti per serializzazione JSON.
+2026-02-12 15:35:03 INFO  i.u.d.lpo.dominiouniversitario.App - Dati studenti caricati in memoria: 5 studenti.
+2026-02-12 15:35:03 DEBUG i.u.d.l.d.s.methods.GestioneDocenti - Istanza GestioneDocenti creata (dati non ancora caricati)
+2026-02-12 15:35:03 INFO  i.u.d.l.d.s.methods.GestioneDocenti - Inizializzazione dati docenti...
+2026-02-12 15:35:03 DEBUG i.u.d.l.d.s.methods.GestioneDocenti - Tentativo di caricamento dei docenti...
+2026-02-12 15:35:03 INFO  i.u.d.l.d.s.methods.GestioneDocenti - Docenti caricati con successo dal JSON: docenti.json
+2026-02-12 15:35:03 DEBUG i.u.d.l.d.s.methods.GestioneDocenti - Inserimento dei dati JSON dei docenti nella mappa dei docenti
+2026-02-12 15:35:03 INFO  i.u.d.l.d.s.methods.GestioneDocenti - Dati dei docenti inseriti nella mappa con successo
+2026-02-12 15:35:03 INFO  i.u.d.l.d.s.methods.GestioneDocenti - Dati docenti inizializzati con successo: 5 docenti caricati
+2026-02-12 15:35:03 DEBUG i.u.d.l.d.s.methods.GestioneDocenti - Restituzione della lista di tutti i docenti
+2026-02-12 15:35:03 INFO  i.u.d.lpo.dominiouniversitario.App - Dati docenti caricati in memoria: 5 docenti.
+2026-02-12 15:35:04 DEBUG i.u.d.l.d.s.methods.GestioneAule - Istanza GestioneAule creata (dati non ancora caricati)
+2026-02-12 15:35:04 INFO  i.u.d.l.d.s.methods.GestioneAule - Inizializzazione dati aule...
+2026-02-12 15:35:04 DEBUG i.u.d.l.d.s.methods.GestioneAule - Tentativo di caricamento delle aule dal file: aule.json
+2026-02-12 15:35:04 INFO  i.u.d.l.d.s.methods.GestioneAule - Aule caricate con successo dal JSON: aule.json
+2026-02-12 15:35:04 DEBUG i.u.d.l.d.s.methods.GestioneAule - Inserimento dei dati JSON delle aule nella mappa
+2026-02-12 15:35:04 INFO  i.u.d.l.d.s.methods.GestioneAule - Dati delle aule inseriti nella mappa con successo
+2026-02-12 15:35:04 INFO  i.u.d.l.d.s.methods.GestioneAule - Dati aule inizializzati con successo: 16 aule caricate
+2026-02-12 15:35:04 DEBUG i.u.d.l.d.s.methods.GestioneAule - Restituzione della lista di tutte le aule
+2026-02-12 15:35:04 INFO  i.u.d.lpo.dominiouniversitario.App - Dati aule caricati in memoria: 16 aule.
+2026-02-12 15:35:04 DEBUG i.u.d.l.d.controller.LoginController - LoginController avviato
+2026-02-12 15:35:06 DEBUG i.u.d.lpo.dominiouniversitario.App - Avvio applicazione in corso...
+2026-02-12 15:35:07 DEBUG i.u.d.l.d.s.methods.GestioneStudenti - Istanza GestioneStudenti creata (dati non ancora caricati)
+2026-02-12 15:35:07 INFO  i.u.d.l.d.s.methods.GestioneStudenti - Inizializzazione dati studenti...
+2026-02-12 15:35:07 INFO  i.u.d.l.d.s.methods.GestioneStudenti - Tentativo di caricamento degli studenti...
+2026-02-12 15:35:07 DEBUG i.u.d.l.d.s.methods.GestioneStudenti - Studenti caricati con successo dal JSON: studenti.json
+2026-02-12 15:35:07 INFO  i.u.d.l.d.s.methods.GestioneStudenti - Dati degli studenti inseriti nella mappa con successo!
+2026-02-12 15:35:07 INFO  i.u.d.l.d.s.methods.GestioneStudenti - Dati studenti inizializzati con successo: 5 studenti caricati
+2026-02-12 15:35:07 INFO  i.u.d.l.d.s.methods.GestioneStudenti - Recupero lista studenti per serializzazione JSON.
+2026-02-12 15:35:07 INFO  i.u.d.lpo.dominiouniversitario.App - Dati studenti caricati in memoria: 5 studenti.
+2026-02-12 15:35:07 DEBUG i.u.d.l.d.s.methods.GestioneDocenti - Istanza GestioneDocenti creata (dati non ancora caricati)
+2026-02-12 15:35:07 INFO  i.u.d.l.d.s.methods.GestioneDocenti - Inizializzazione dati docenti...
+2026-02-12 15:35:07 DEBUG i.u.d.l.d.s.methods.GestioneDocenti - Tentativo di caricamento dei docenti...
+2026-02-12 15:35:07 INFO  i.u.d.l.d.s.methods.GestioneDocenti - Docenti caricati con successo dal JSON: docenti.json
+2026-02-12 15:35:07 DEBUG i.u.d.l.d.s.methods.GestioneDocenti - Inserimento dei dati JSON dei docenti nella mappa dei docenti
+2026-02-12 15:35:07 INFO  i.u.d.l.d.s.methods.GestioneDocenti - Dati dei docenti inseriti nella mappa con successo
+2026-02-12 15:35:07 INFO  i.u.d.l.d.s.methods.GestioneDocenti - Dati docenti inizializzati con successo: 5 docenti caricati
+2026-02-12 15:35:07 DEBUG i.u.d.l.d.s.methods.GestioneDocenti - Restituzione della lista di tutti i docenti
+2026-02-12 15:35:07 INFO  i.u.d.lpo.dominiouniversitario.App - Dati docenti caricati in memoria: 5 docenti.
+2026-02-12 15:35:07 DEBUG i.u.d.l.d.s.methods.GestioneAule - Istanza GestioneAule creata (dati non ancora caricati)
+2026-02-12 15:35:07 INFO  i.u.d.l.d.s.methods.GestioneAule - Inizializzazione dati aule...
+2026-02-12 15:35:07 DEBUG i.u.d.l.d.s.methods.GestioneAule - Tentativo di caricamento delle aule dal file: aule.json
+2026-02-12 15:35:07 INFO  i.u.d.l.d.s.methods.GestioneAule - Aule caricate con successo dal JSON: aule.json
+2026-02-12 15:35:07 DEBUG i.u.d.l.d.s.methods.GestioneAule - Inserimento dei dati JSON delle aule nella mappa
+2026-02-12 15:35:07 INFO  i.u.d.l.d.s.methods.GestioneAule - Dati delle aule inseriti nella mappa con successo
+2026-02-12 15:35:07 INFO  i.u.d.l.d.s.methods.GestioneAule - Dati aule inizializzati con successo: 16 aule caricate
+2026-02-12 15:35:07 DEBUG i.u.d.l.d.s.methods.GestioneAule - Restituzione della lista di tutte le aule
+2026-02-12 15:35:07 INFO  i.u.d.lpo.dominiouniversitario.App - Dati aule caricati in memoria: 16 aule.
+2026-02-12 15:35:07 DEBUG i.u.d.l.d.controller.LoginController - LoginController avviato
+2026-02-12 15:35:27 DEBUG i.u.d.l.d.controller.LoginController - Tentativo di login con email e password
+2026-02-12 15:35:27 DEBUG i.u.d.l.d.s.methods.GestioneStudenti - Credenziali ricevute: email=mattia.ramondo@student.univaq.it, password=password
+2026-02-12 15:35:27 INFO  i.u.d.l.d.s.methods.GestioneStudenti - Login studente avvenuto con successo!
+2026-02-12 15:35:27 INFO  i.u.d.l.d.controller.LoginController - Login dello studente Mattia completato
+2026-02-12 15:35:27 INFO  i.u.d.l.d.s.methods.GestioneStudenti - Nuovo profilo studente impostato: 291659
+2026-02-12 15:35:27 DEBUG i.u.d.l.d.controller.LoginController - Cambio scena verso Home Studente
+2026-02-12 15:35:27 DEBUG i.u.d.l.d.controller.LoginController - Cambio scena verso ProfiloStudente.fxml
+2026-02-12 15:35:27 DEBUG i.u.d.l.d.c.HomeStudenteController - HomeStudenteController avviato
+2026-02-12 15:35:27 DEBUG i.u.d.l.d.c.HomeStudenteController - Recupero dati singleton dello studente
+2026-02-12 15:35:27 DEBUG i.u.d.l.d.c.HomeStudenteController - Popolamento etichette con i dati dello studente: Mattia Ramondo
+2026-02-12 15:35:27 DEBUG i.u.d.l.d.s.methods.GestioneStudenti - Calcolo CFU conseguiti dallo studente 291659.
+2026-02-12 15:35:27 DEBUG i.u.d.l.d.s.methods.GestioneStudenti - Calcolo CFU conseguiti dallo studente 291659.
+2026-02-12 15:35:27 DEBUG i.u.d.l.d.s.methods.GestioneStudenti - Calcolo CFU conseguiti dallo studente 291659.
+2026-02-12 15:35:27 DEBUG i.u.d.l.d.s.methods.GestioneStudenti - Calcolo CFU conseguiti dallo studente 291659.
+2026-02-12 15:35:27 DEBUG i.u.d.l.d.s.methods.GestioneStudenti - Calcolo CFU conseguiti dallo studente 291659.
+2026-02-12 15:35:27 DEBUG i.u.d.l.d.s.methods.GestioneStudenti - Calcolo CFU conseguiti dallo studente 291659.
+2026-02-12 15:35:27 DEBUG i.u.d.l.d.s.methods.GestioneStudenti - Calcolo CFU conseguiti dallo studente 291659.
+2026-02-12 15:35:27 INFO  i.u.d.l.d.s.methods.GestioneStudenti - CFU totali calcolati con successo!
+2026-02-12 15:35:27 DEBUG i.u.d.l.d.s.methods.GestioneStudenti - Calcolo della media ponderata dello studente 291659.
+2026-02-12 15:35:27 INFO  i.u.d.l.d.s.methods.GestioneStudenti - Media ponderata calcolata con successo!
+2026-02-12 15:35:27 DEBUG i.u.d.l.d.c.HomeStudenteController - Dati studente caricati per: 291659
+2026-02-12 15:35:27 DEBUG i.u.d.l.d.c.ProfiloStudenteController - Inizializzazione ProfiloStudenteController
+2026-02-12 15:35:27 INFO  i.u.d.l.d.controller.LoginController - Scena caricata correttamente
+2026-02-12 15:35:43 DEBUG i.u.d.l.d.c.HomeStudenteController - Navigazione a Riepilogo Carriera per Mattia
+2026-02-12 15:35:43 DEBUG i.u.d.l.d.c.HomeStudenteController - Cambio scena verso RiepilogoCarriera.fxml
+2026-02-12 15:35:43 DEBUG i.u.d.l.d.c.RiepilogoCarrieraController - Inizializzazione RiepilogoCarrieraController
+2026-02-12 15:35:43 DEBUG i.u.d.l.d.s.methods.GestioneStudenti - Calcolo CFU conseguiti dallo studente 291659.
+2026-02-12 15:35:43 DEBUG i.u.d.l.d.s.methods.GestioneStudenti - Calcolo CFU conseguiti dallo studente 291659.
+2026-02-12 15:35:43 DEBUG i.u.d.l.d.s.methods.GestioneStudenti - Calcolo CFU conseguiti dallo studente 291659.
+2026-02-12 15:35:43 DEBUG i.u.d.l.d.s.methods.GestioneStudenti - Calcolo CFU conseguiti dallo studente 291659.
+2026-02-12 15:35:43 DEBUG i.u.d.l.d.s.methods.GestioneStudenti - Calcolo CFU conseguiti dallo studente 291659.
+2026-02-12 15:35:43 DEBUG i.u.d.l.d.s.methods.GestioneStudenti - Calcolo CFU conseguiti dallo studente 291659.
+2026-02-12 15:35:43 DEBUG i.u.d.l.d.s.methods.GestioneStudenti - Calcolo CFU conseguiti dallo studente 291659.
+2026-02-12 15:35:43 INFO  i.u.d.l.d.s.methods.GestioneStudenti - CFU totali calcolati con successo!
+2026-02-12 15:35:43 DEBUG i.u.d.l.d.s.methods.GestioneStudenti - Calcolo della media ponderata dello studente 291659.
+2026-02-12 15:35:43 INFO  i.u.d.l.d.s.methods.GestioneStudenti - Media ponderata calcolata con successo!
+2026-02-12 15:35:43 DEBUG i.u.d.l.d.c.RiepilogoCarrieraController - Configurazione colonne tabella esami sostenuti
+2026-02-12 15:35:43 INFO  i.u.d.l.d.c.HomeStudenteController - Scena caricata correttamente:
+2026-02-12 15:35:47 DEBUG i.u.d.l.d.c.RiepilogoCarrieraController - Cambio scena verso PrenotazioneEsami.fxml
+2026-02-12 15:35:47 DEBUG i.u.d.l.d.c.PrenotazioneEsamiController - Inizializzazione PrenotazioneEsamiController
+2026-02-12 15:35:47 DEBUG i.u.d.l.d.c.PrenotazioneEsamiController - Caricamento lista appelli disponibili
+2026-02-12 15:35:47 DEBUG i.u.d.l.d.s.methods.GestioneAppelli - Recupero di tutti gli appelli di tutti i docenti
+2026-02-12 15:35:47 DEBUG i.u.d.l.d.s.methods.GestioneDocenti - Restituzione della lista di tutti i docenti
+2026-02-12 15:35:47 DEBUG i.u.d.l.d.s.methods.GestioneAppelli - Calcolo di tutti gli appelli disponibili
+2026-02-12 15:35:47 INFO  i.u.d.l.d.s.methods.GestioneAppelli - Recupero di tutti gli appelli completato
+2026-02-12 15:35:47 INFO  i.u.d.l.d.c.RiepilogoCarrieraController - Scena caricata correttamente
+2026-02-12 15:35:47 DEBUG i.u.d.l.d.c.PrenotazioneEsamiController - Creazione cella azioni per appello
+2026-02-12 15:35:47 DEBUG i.u.d.l.d.c.PrenotazioneEsamiController - Verifica iscrizione studente per l'appello: Programmazione a Oggetti
+2026-02-12 15:35:47 DEBUG i.u.d.l.d.c.PrenotazioneEsamiController - Creazione cella azioni per appello
+2026-02-12 15:35:47 DEBUG i.u.d.l.d.c.PrenotazioneEsamiController - Creazione cella azioni per appello
+2026-02-12 15:35:47 DEBUG i.u.d.l.d.c.PrenotazioneEsamiController - Verifica iscrizione studente per l'appello: Programmazione a Oggetti
+2026-02-12 15:35:47 DEBUG i.u.d.l.d.c.PrenotazioneEsamiController - Creazione cella azioni per appello
+2026-02-12 15:35:47 DEBUG i.u.d.l.d.c.PrenotazioneEsamiController - Creazione cella azioni per appello
+2026-02-12 15:35:47 DEBUG i.u.d.l.d.c.PrenotazioneEsamiController - Creazione cella azioni per appello
+2026-02-12 15:35:47 DEBUG i.u.d.l.d.c.PrenotazioneEsamiController - Creazione cella azioni per appello
+2026-02-12 15:35:47 DEBUG i.u.d.l.d.c.PrenotazioneEsamiController - Creazione cella azioni per appello
+2026-02-12 15:35:47 DEBUG i.u.d.l.d.c.PrenotazioneEsamiController - Creazione cella azioni per appello
+2026-02-12 15:35:47 DEBUG i.u.d.l.d.c.PrenotazioneEsamiController - Creazione cella azioni per appello
+2026-02-12 15:35:47 DEBUG i.u.d.l.d.c.PrenotazioneEsamiController - Creazione cella azioni per appello
+2026-02-12 15:35:47 DEBUG i.u.d.l.d.c.PrenotazioneEsamiController - Creazione cella azioni per appello
+2026-02-12 15:35:47 DEBUG i.u.d.l.d.c.PrenotazioneEsamiController - Creazione cella azioni per appello
+2026-02-12 15:35:47 DEBUG i.u.d.l.d.c.PrenotazioneEsamiController - Creazione cella azioni per appello
+2026-02-12 15:35:47 DEBUG i.u.d.l.d.c.PrenotazioneEsamiController - Creazione cella azioni per appello
+2026-02-12 15:35:47 DEBUG i.u.d.l.d.c.PrenotazioneEsamiController - Creazione cella azioni per appello
+2026-02-12 15:35:47 DEBUG i.u.d.l.d.c.PrenotazioneEsamiController - Creazione cella azioni per appello
+2026-02-12 15:35:47 DEBUG i.u.d.l.d.c.PrenotazioneEsamiController - Creazione cella azioni per appello
+2026-02-12 15:35:47 DEBUG i.u.d.l.d.c.PrenotazioneEsamiController - Creazione cella azioni per appello
+2026-02-12 15:35:47 DEBUG i.u.d.l.d.c.PrenotazioneEsamiController - Creazione cella azioni per appello
+2026-02-12 15:35:47 DEBUG i.u.d.l.d.c.PrenotazioneEsamiController - Creazione cella azioni per appello
+2026-02-12 15:35:47 DEBUG i.u.d.l.d.c.PrenotazioneEsamiController - Creazione cella azioni per appello
+2026-02-12 15:35:47 DEBUG i.u.d.l.d.c.PrenotazioneEsamiController - Creazione cella azioni per appello
+2026-02-12 15:35:47 DEBUG i.u.d.l.d.c.PrenotazioneEsamiController - Creazione cella azioni per appello
+2026-02-12 15:35:47 DEBUG i.u.d.l.d.c.PrenotazioneEsamiController - Creazione cella azioni per appello
+2026-02-12 15:35:48 DEBUG i.u.d.l.d.c.PrenotazioneEsamiController - Gestione prenotazione per l'appello: Programmazione a Oggetti
+2026-02-12 15:35:48 DEBUG i.u.d.l.d.s.methods.GestioneAppelli - Prenotazione dello studente 291659 all'appello di Programmazione a Oggetti
+2026-02-12 15:35:48 DEBUG i.u.d.l.d.s.methods.GestioneStudenti - Ricerca studente con matricola: 291659
+2026-02-12 15:35:48 INFO  i.u.d.l.d.s.methods.GestioneAppelli - Iscrizione completata per studente 291659
+2026-02-12 15:35:48 DEBUG i.u.d.l.d.s.methods.GestioneAppelli - Salvataggio dei dati
+2026-02-12 15:35:48 DEBUG i.u.d.l.d.s.methods.GestioneDocenti - Tentativo di salvataggio dei dati docenti al file JSON
+2026-02-12 15:35:48 DEBUG i.u.d.l.d.s.methods.GestioneDocenti - Restituzione della lista di tutti i docenti
+2026-02-12 15:35:48 INFO  i.u.d.l.d.s.methods.GestioneDocenti - Docenti salvati correttamente in docenti.json
+2026-02-12 15:35:48 INFO  i.u.d.l.d.c.PrenotazioneEsamiController - Prenotazione effettuata con successo per l'appello: Programmazione a Oggetti
+2026-02-12 15:35:50 DEBUG i.u.d.l.d.c.PrenotazioneEsamiController - Creazione cella azioni per appello
+2026-02-12 15:35:50 DEBUG i.u.d.l.d.c.PrenotazioneEsamiController - Creazione cella azioni per appello
+2026-02-12 15:35:50 DEBUG i.u.d.l.d.c.PrenotazioneEsamiController - Verifica iscrizione studente per l'appello: Programmazione a Oggetti
+2026-02-12 15:35:50 DEBUG i.u.d.l.d.c.PrenotazioneEsamiController - Creazione cella azioni per appello
+2026-02-12 15:35:50 DEBUG i.u.d.l.d.c.PrenotazioneEsamiController - Creazione cella azioni per appello
+2026-02-12 15:35:50 DEBUG i.u.d.l.d.c.PrenotazioneEsamiController - Creazione cella azioni per appello
+2026-02-12 15:35:50 DEBUG i.u.d.l.d.c.PrenotazioneEsamiController - Creazione cella azioni per appello
+2026-02-12 15:35:50 DEBUG i.u.d.l.d.c.PrenotazioneEsamiController - Creazione cella azioni per appello
+2026-02-12 15:35:50 DEBUG i.u.d.l.d.c.PrenotazioneEsamiController - Creazione cella azioni per appello
+2026-02-12 15:35:50 DEBUG i.u.d.l.d.c.PrenotazioneEsamiController - Creazione cella azioni per appello
+2026-02-12 15:35:50 DEBUG i.u.d.l.d.c.PrenotazioneEsamiController - Creazione cella azioni per appello
+2026-02-12 15:35:50 DEBUG i.u.d.l.d.c.PrenotazioneEsamiController - Creazione cella azioni per appello
+2026-02-12 15:35:50 DEBUG i.u.d.l.d.c.PrenotazioneEsamiController - Creazione cella azioni per appello
+2026-02-12 15:35:50 DEBUG i.u.d.l.d.c.PrenotazioneEsamiController - Creazione cella azioni per appello
+2026-02-12 15:35:50 DEBUG i.u.d.l.d.c.PrenotazioneEsamiController - Creazione cella azioni per appello
+2026-02-12 15:35:50 DEBUG i.u.d.l.d.c.PrenotazioneEsamiController - Creazione cella azioni per appello
+2026-02-12 15:35:50 DEBUG i.u.d.l.d.c.PrenotazioneEsamiController - Creazione cella azioni per appello
+2026-02-12 15:35:50 DEBUG i.u.d.l.d.c.PrenotazioneEsamiController - Creazione cella azioni per appello
+2026-02-12 15:35:50 DEBUG i.u.d.l.d.c.PrenotazioneEsamiController - Creazione cella azioni per appello
+2026-02-12 15:35:50 DEBUG i.u.d.l.d.c.PrenotazioneEsamiController - Creazione cella azioni per appello
+2026-02-12 15:35:50 DEBUG i.u.d.l.d.c.PrenotazioneEsamiController - Creazione cella azioni per appello
+2026-02-12 15:35:50 DEBUG i.u.d.l.d.c.PrenotazioneEsamiController - Creazione cella azioni per appello
+2026-02-12 15:35:50 DEBUG i.u.d.l.d.c.PrenotazioneEsamiController - Creazione cella azioni per appello
+2026-02-12 15:35:50 DEBUG i.u.d.l.d.c.PrenotazioneEsamiController - Creazione cella azioni per appello
+2026-02-12 15:35:50 DEBUG i.u.d.l.d.c.PrenotazioneEsamiController - Creazione cella azioni per appello
+2026-02-12 15:35:52 DEBUG i.u.d.l.d.c.PrenotazioneEsamiController - Annullamento prenotazione per l'appello: Programmazione a Oggetti
+2026-02-12 15:35:52 DEBUG i.u.d.l.d.s.methods.GestioneDocenti - Tentativo di salvataggio dei dati docenti al file JSON
+2026-02-12 15:35:52 DEBUG i.u.d.l.d.s.methods.GestioneDocenti - Restituzione della lista di tutti i docenti
+2026-02-12 15:35:52 INFO  i.u.d.l.d.s.methods.GestioneDocenti - Docenti salvati correttamente in docenti.json
+2026-02-12 15:35:52 INFO  i.u.d.l.d.c.PrenotazioneEsamiController - Prenotazione annullata con successo per l'appello: Programmazione a Oggetti
+2026-02-12 15:35:52 DEBUG i.u.d.l.d.c.PrenotazioneEsamiController - Creazione cella azioni per appello
+2026-02-12 15:35:52 DEBUG i.u.d.l.d.c.PrenotazioneEsamiController - Creazione cella azioni per appello
+2026-02-12 15:35:52 DEBUG i.u.d.l.d.c.PrenotazioneEsamiController - Verifica iscrizione studente per l'appello: Programmazione a Oggetti
+2026-02-12 15:35:52 DEBUG i.u.d.l.d.c.PrenotazioneEsamiController - Creazione cella azioni per appello
+2026-02-12 15:35:52 DEBUG i.u.d.l.d.c.PrenotazioneEsamiController - Creazione cella azioni per appello
+2026-02-12 15:35:52 DEBUG i.u.d.l.d.c.PrenotazioneEsamiController - Creazione cella azioni per appello
+2026-02-12 15:35:52 DEBUG i.u.d.l.d.c.PrenotazioneEsamiController - Creazione cella azioni per appello
+2026-02-12 15:35:52 DEBUG i.u.d.l.d.c.PrenotazioneEsamiController - Creazione cella azioni per appello
+2026-02-12 15:35:52 DEBUG i.u.d.l.d.c.PrenotazioneEsamiController - Creazione cella azioni per appello
+2026-02-12 15:35:52 DEBUG i.u.d.l.d.c.PrenotazioneEsamiController - Creazione cella azioni per appello
+2026-02-12 15:35:52 DEBUG i.u.d.l.d.c.PrenotazioneEsamiController - Creazione cella azioni per appello
+2026-02-12 15:35:52 DEBUG i.u.d.l.d.c.PrenotazioneEsamiController - Creazione cella azioni per appello
+2026-02-12 15:35:52 DEBUG i.u.d.l.d.c.PrenotazioneEsamiController - Creazione cella azioni per appello
+2026-02-12 15:35:53 DEBUG i.u.d.l.d.c.PrenotazioneEsamiController - Creazione cella azioni per appello
+2026-02-12 15:35:53 DEBUG i.u.d.l.d.c.PrenotazioneEsamiController - Creazione cella azioni per appello
+2026-02-12 15:35:53 DEBUG i.u.d.l.d.c.PrenotazioneEsamiController - Creazione cella azioni per appello
+2026-02-12 15:35:53 DEBUG i.u.d.l.d.c.PrenotazioneEsamiController - Creazione cella azioni per appello
+2026-02-12 15:35:53 DEBUG i.u.d.l.d.c.PrenotazioneEsamiController - Creazione cella azioni per appello
+2026-02-12 15:35:53 DEBUG i.u.d.l.d.c.PrenotazioneEsamiController - Creazione cella azioni per appello
+2026-02-12 15:35:53 DEBUG i.u.d.l.d.c.PrenotazioneEsamiController - Creazione cella azioni per appello
+2026-02-12 15:35:53 DEBUG i.u.d.l.d.c.PrenotazioneEsamiController - Creazione cella azioni per appello
+2026-02-12 15:35:53 DEBUG i.u.d.l.d.c.PrenotazioneEsamiController - Creazione cella azioni per appello
+2026-02-12 15:35:53 DEBUG i.u.d.l.d.c.PrenotazioneEsamiController - Creazione cella azioni per appello
+2026-02-12 15:35:53 DEBUG i.u.d.l.d.c.PrenotazioneEsamiController - Creazione cella azioni per appello
+2026-02-12 15:35:53 DEBUG i.u.d.l.d.c.PrenotazioneEsamiController - Creazione cella azioni per appello
+2026-02-12 15:35:54 DEBUG i.u.d.l.d.c.PrenotazioneEsamiController - Navigazione a EsitoEsami.fxml
+2026-02-12 15:35:54 DEBUG i.u.d.l.d.c.PrenotazioneEsamiController - Cambio scena a /fxml/EsitoEsami.fxml
+2026-02-12 15:35:54 DEBUG i.u.d.l.d.c.EsitoEsamiController - Inizializzazione EsitoEsamiController
+2026-02-12 15:35:54 DEBUG i.u.d.l.d.c.EsitoEsamiController - Caricamento esiti esami per lo studente corrente
+2026-02-12 15:35:54 INFO  i.u.d.l.d.c.PrenotazioneEsamiController - Scena caricata correttamente
+2026-02-12 15:35:56 DEBUG i.u.d.l.d.c.EsitoEsamiController - Logout in corso
+2026-02-12 15:35:56 DEBUG i.u.d.l.d.c.EsitoEsamiController - Cambio scena a: /fxml/NewLoginPage.fxml
+2026-02-12 15:35:56 DEBUG i.u.d.l.d.controller.LoginController - LoginController avviato
+2026-02-12 15:35:56 INFO  i.u.d.l.d.c.EsitoEsamiController - Scena caricata correttamente: /fxml/NewLoginPage.fxml
+2026-02-12 15:36:22 DEBUG i.u.d.l.d.controller.LoginController - Tentativo di login con email e password
+2026-02-12 15:36:22 DEBUG i.u.d.l.d.s.methods.GestioneDocenti - Verifica delle credenziali per email: marco.papa@univaq.it
+2026-02-12 15:36:22 INFO  i.u.d.l.d.s.methods.GestioneDocenti - Login docente riuscito
+2026-02-12 15:36:22 INFO  i.u.d.l.d.controller.LoginController - Login del docente Marco completato
+2026-02-12 15:36:22 DEBUG i.u.d.l.d.s.methods.GestioneDocenti - Profilo docente attualmente loggato: D001
+2026-02-12 15:36:22 DEBUG i.u.d.l.d.controller.LoginController - Cambio scena verso Home Docente
+2026-02-12 15:36:22 DEBUG i.u.d.l.d.controller.LoginController - Cambio scena verso HomeInsegnante.fxml
+2026-02-12 15:36:22 DEBUG i.u.d.l.d.c.HomeInsegnanteController - Inizializzazione HomeInsegnanteController
+2026-02-12 15:36:22 DEBUG i.u.d.l.d.s.methods.GestioneDocenti - Restituzione profilo docente D001
+2026-02-12 15:36:22 DEBUG i.u.d.l.d.c.HomeInsegnanteController - Docente loggato: Marco Papa
+2026-02-12 15:36:22 DEBUG i.u.d.l.d.c.ProfiloDocenteController - Inizializzazione ProfiloDocenteController
+2026-02-12 15:36:22 DEBUG i.u.d.l.d.s.methods.GestioneDocenti - Restituzione profilo docente D001
+2026-02-12 15:36:22 INFO  i.u.d.l.d.controller.LoginController - Scena caricata correttamente
+2026-02-12 15:36:32 INFO  i.u.d.l.d.c.HomeInsegnanteController - Filtro corso impostato a: Informatica (L-31)
+2026-02-12 15:36:33 DEBUG i.u.d.l.d.c.HomeInsegnanteController - Navigazione a GestioneAppelli
+2026-02-12 15:36:33 DEBUG i.u.d.l.d.c.GestioneAppelliController - Inizializzazione GestioneAppelliController
+2026-02-12 15:36:33 DEBUG i.u.d.l.d.s.methods.GestioneDocenti - Restituzione profilo docente D001
+2026-02-12 15:36:33 DEBUG i.u.d.l.d.c.GestioneAppelliController - Filtro di ricerca applicato agli appelli
+2026-02-12 15:36:33 INFO  i.u.d.l.d.c.HomeInsegnanteController - Scena GestioneAppelli caricata correttamente
+2026-02-12 15:36:33 DEBUG i.u.d.l.d.c.GestioneAppelliController - Creazione celle per la colonna Azioni
+2026-02-12 15:36:33 DEBUG i.u.d.l.d.c.GestioneAppelliController - Creazione celle per la colonna Azioni
+2026-02-12 15:36:33 DEBUG i.u.d.l.d.c.GestioneAppelliController - Creazione celle per la colonna Azioni
+2026-02-12 15:36:33 DEBUG i.u.d.l.d.c.GestioneAppelliController - Creazione celle per la colonna Azioni
+2026-02-12 15:36:33 DEBUG i.u.d.l.d.c.GestioneAppelliController - Creazione celle per la colonna Azioni
+2026-02-12 15:36:33 DEBUG i.u.d.l.d.c.GestioneAppelliController - Creazione celle per la colonna Azioni
+2026-02-12 15:36:33 DEBUG i.u.d.l.d.c.GestioneAppelliController - Creazione celle per la colonna Azioni
+2026-02-12 15:36:33 DEBUG i.u.d.l.d.c.GestioneAppelliController - Creazione celle per la colonna Azioni
+2026-02-12 15:36:33 DEBUG i.u.d.l.d.c.GestioneAppelliController - Creazione celle per la colonna Azioni
+2026-02-12 15:36:33 DEBUG i.u.d.l.d.c.GestioneAppelliController - Creazione celle per la colonna Azioni
+2026-02-12 15:36:33 DEBUG i.u.d.l.d.c.GestioneAppelliController - Creazione celle per la colonna Azioni
+2026-02-12 15:36:33 DEBUG i.u.d.l.d.c.GestioneAppelliController - Creazione celle per la colonna Azioni
+2026-02-12 15:36:33 DEBUG i.u.d.l.d.c.GestioneAppelliController - Creazione celle per la colonna Azioni
+2026-02-12 15:36:33 DEBUG i.u.d.l.d.c.GestioneAppelliController - Creazione celle per la colonna Azioni
+2026-02-12 15:36:34 DEBUG i.u.d.l.d.c.GestioneAppelliController - Creazione celle per la colonna Azioni
+2026-02-12 15:36:34 DEBUG i.u.d.l.d.c.GestioneAppelliController - Creazione celle per la colonna Azioni
+2026-02-12 15:36:34 DEBUG i.u.d.l.d.c.GestioneAppelliController - Creazione celle per la colonna Azioni
+2026-02-12 15:36:34 DEBUG i.u.d.l.d.c.GestioneAppelliController - Creazione celle per la colonna Azioni
+2026-02-12 15:36:34 DEBUG i.u.d.l.d.c.GestioneAppelliController - Creazione celle per la colonna Azioni
+2026-02-12 15:36:34 DEBUG i.u.d.l.d.c.GestioneAppelliController - Creazione celle per la colonna Azioni
+2026-02-12 15:36:36 DEBUG i.u.d.l.d.c.GestioneAppelliController - Apertura dialog Aggiungi Appello
+2026-02-12 15:36:36 DEBUG i.u.d.l.d.c.AggiungiAppelloDialogController - Inizializzazione AggiungiAppelloDialogController
+2026-02-12 15:36:36 DEBUG i.u.d.l.d.s.methods.GestioneDocenti - Restituzione profilo docente D001
+2026-02-12 15:36:36 DEBUG i.u.d.l.d.s.methods.GestioneAule - Restituzione della lista di tutte le aule
+2026-02-12 15:36:36 INFO  i.u.d.l.d.c.GestioneAppelliController - Dialog Aggiungi Appello aperto
+2026-02-12 15:36:36 DEBUG i.u.d.l.d.c.AggiungiAppelloDialogController - Impostazione dialogStage in AggiungiAppelloDialogController
+2026-02-12 15:36:36 DEBUG i.u.d.l.d.c.GestioneAppelliController - Controller del dialog impostato
+2026-02-12 15:36:54 DEBUG i.u.d.l.d.c.GestioneAppelliController - Navigazione a RegistrazioneVoti
+2026-02-12 15:36:54 DEBUG i.u.d.l.d.c.GestioneAppelliController - Cambio scena a: /fxml/RegistrazioneVoti.fxml
+2026-02-12 15:36:55 DEBUG i.u.d.l.d.c.RegistrazioneVotiController - Inizializzazione RegistrazioneVotiController
+2026-02-12 15:36:55 DEBUG i.u.d.l.d.s.methods.GestioneDocenti - Restituzione profilo docente D001
+2026-02-12 15:36:55 DEBUG i.u.d.l.d.c.RegistrazioneVotiController - Configurazione colonne tabella studenti
+2026-02-12 15:36:55 DEBUG i.u.d.l.d.c.RegistrazioneVotiController - Configurazione ComboBox appelli
+2026-02-12 15:36:55 DEBUG i.u.d.l.d.c.RegistrazioneVotiController - Configurazione evento doppio click sulla tabella studenti
+2026-02-12 15:36:55 INFO  i.u.d.l.d.c.GestioneAppelliController - Scena caricata correttamente: /fxml/RegistrazioneVoti.fxml
+2026-02-12 15:36:55 INFO  i.u.d.l.d.c.RegistrazioneVotiController - Elemento vuoto o nullo nella ComboBox appelli
+2026-02-12 15:36:55 INFO  i.u.d.l.d.c.RegistrazioneVotiController - Visualizzazione appello: Basi di Dati - 2026-01-10
+2026-02-12 15:36:55 INFO  i.u.d.l.d.c.RegistrazioneVotiController - Elemento vuoto o nullo nella ComboBox appelli
+2026-02-12 15:36:55 INFO  i.u.d.l.d.c.RegistrazioneVotiController - Visualizzazione appello: Programmazione a Oggetti - 2026-01-20
+2026-02-12 15:36:55 INFO  i.u.d.l.d.c.RegistrazioneVotiController - Elemento vuoto o nullo nella ComboBox appelli
+2026-02-12 15:36:55 INFO  i.u.d.l.d.c.RegistrazioneVotiController - Visualizzazione appello: Basi di Dati - 2026-12-07
+2026-02-12 15:36:55 INFO  i.u.d.l.d.c.RegistrazioneVotiController - Elemento vuoto o nullo nella ComboBox appelli
+2026-02-12 15:36:56 INFO  i.u.d.l.d.c.RegistrazioneVotiController - Visualizzazione appello: Basi di Dati - 2026-01-10
+2026-02-12 15:36:56 INFO  i.u.d.l.d.c.RegistrazioneVotiController - Elemento vuoto o nullo nella ComboBox appelli
+2026-02-12 15:36:56 INFO  i.u.d.l.d.c.RegistrazioneVotiController - Visualizzazione appello: Programmazione a Oggetti - 2026-01-20
+2026-02-12 15:36:56 INFO  i.u.d.l.d.c.RegistrazioneVotiController - Elemento vuoto o nullo nella ComboBox appelli
+2026-02-12 15:36:56 INFO  i.u.d.l.d.c.RegistrazioneVotiController - Visualizzazione appello: Basi di Dati - 2026-12-07
+2026-02-12 15:36:56 INFO  i.u.d.l.d.c.RegistrazioneVotiController - Elemento vuoto o nullo nella ComboBox appelli
+2026-02-12 15:36:56 INFO  i.u.d.l.d.c.RegistrazioneVotiController - Visualizzazione appello: Ingegneria del Software - 2025-12-19
+2026-02-12 15:36:56 INFO  i.u.d.l.d.c.RegistrazioneVotiController - Elemento vuoto o nullo nella ComboBox appelli
+2026-02-12 15:36:56 INFO  i.u.d.l.d.c.RegistrazioneVotiController - Visualizzazione appello: Basi di Dati - 2026-01-10
+2026-02-12 15:36:56 INFO  i.u.d.l.d.c.RegistrazioneVotiController - Elemento vuoto o nullo nella ComboBox appelli
+2026-02-12 15:36:56 INFO  i.u.d.l.d.c.RegistrazioneVotiController - Visualizzazione appello: Programmazione a Oggetti - 2026-01-20
+2026-02-12 15:36:56 INFO  i.u.d.l.d.c.RegistrazioneVotiController - Elemento vuoto o nullo nella ComboBox appelli
+2026-02-12 15:36:56 INFO  i.u.d.l.d.c.RegistrazioneVotiController - Visualizzazione appello: Basi di Dati - 2026-12-07
+2026-02-12 15:36:56 INFO  i.u.d.l.d.c.RegistrazioneVotiController - Elemento vuoto o nullo nella ComboBox appelli
+2026-02-12 15:36:56 INFO  i.u.d.l.d.c.RegistrazioneVotiController - Visualizzazione appello: Ingegneria del Software - 2025-12-19
+2026-02-12 15:36:56 INFO  i.u.d.l.d.c.RegistrazioneVotiController - Elemento vuoto o nullo nella ComboBox appelli
+2026-02-12 15:36:56 INFO  i.u.d.l.d.c.RegistrazioneVotiController - Visualizzazione appello: Ingegneria del Software - 2025-12-19
+2026-02-12 15:36:56 INFO  i.u.d.l.d.c.RegistrazioneVotiController - Elemento vuoto o nullo nella ComboBox appelli
+2026-02-12 15:36:56 INFO  i.u.d.l.d.c.RegistrazioneVotiController - Elemento vuoto o nullo nella ComboBox appelli
+2026-02-12 15:36:56 INFO  i.u.d.l.d.c.RegistrazioneVotiController - Visualizzazione appello: Basi di Dati - 2026-01-10
+2026-02-12 15:36:56 INFO  i.u.d.l.d.c.RegistrazioneVotiController - Elemento vuoto o nullo nella ComboBox appelli
+2026-02-12 15:36:56 INFO  i.u.d.l.d.c.RegistrazioneVotiController - Visualizzazione appello: Programmazione a Oggetti - 2026-01-20
+2026-02-12 15:36:56 INFO  i.u.d.l.d.c.RegistrazioneVotiController - Elemento vuoto o nullo nella ComboBox appelli
+2026-02-12 15:36:56 INFO  i.u.d.l.d.c.RegistrazioneVotiController - Visualizzazione appello: Basi di Dati - 2026-12-07
+2026-02-12 15:36:56 INFO  i.u.d.l.d.c.RegistrazioneVotiController - Elemento vuoto o nullo nella ComboBox appelli
+2026-02-12 15:36:56 INFO  i.u.d.l.d.c.RegistrazioneVotiController - Visualizzazione appello: Ingegneria del Software - 2025-12-19
+2026-02-12 15:36:56 INFO  i.u.d.l.d.c.RegistrazioneVotiController - Elemento vuoto o nullo nella ComboBox appelli
+2026-02-12 15:36:56 DEBUG i.u.d.l.d.c.RegistrazioneVotiController - Caricamento studenti iscritti per l'appello: Ingegneria del Software
+2026-02-12 15:36:56 DEBUG i.u.d.l.d.s.methods.GestioneDocenti - Tentativo di visualizzazione degli studenti iscritti all'appello it.univaq.disim.lpo.dominiouniversitario.core.Appello@813cc62e da parte del docente D001
+2026-02-12 15:36:56 DEBUG i.u.d.l.d.s.methods.GestioneDocenti - Restituzione del docente D001
+2026-02-12 15:36:56 INFO  i.u.d.l.d.s.methods.GestioneDocenti - Visualizzazione degli studenti iscritti all'appello completata con successo: 0 studenti
+2026-02-12 15:36:56 INFO  i.u.d.l.d.c.RegistrazioneVotiController - Visualizzazione appello: Ingegneria del Software - 2025-12-19
+2026-02-12 15:36:58 DEBUG i.u.d.l.d.c.RegistrazioneVotiController - Caricamento studenti iscritti per l'appello: Basi di Dati
+2026-02-12 15:36:58 DEBUG i.u.d.l.d.s.methods.GestioneDocenti - Tentativo di visualizzazione degli studenti iscritti all'appello it.univaq.disim.lpo.dominiouniversitario.core.Appello@813ccb27 da parte del docente D001
+2026-02-12 15:36:58 DEBUG i.u.d.l.d.s.methods.GestioneDocenti - Restituzione del docente D001
+2026-02-12 15:36:58 INFO  i.u.d.l.d.s.methods.GestioneDocenti - Visualizzazione degli studenti iscritti all'appello completata con successo: 0 studenti
+2026-02-12 15:36:58 INFO  i.u.d.l.d.c.RegistrazioneVotiController - Visualizzazione appello: Basi di Dati - 2026-01-10
+2026-02-12 15:36:58 INFO  i.u.d.l.d.c.RegistrazioneVotiController - Visualizzazione appello: Ingegneria del Software - 2025-12-19
+2026-02-12 15:37:01 DEBUG i.u.d.l.d.c.RegistrazioneVotiController - Navigazione a Insegnamenti Attivi
+2026-02-12 15:37:01 DEBUG i.u.d.l.d.c.RegistrazioneVotiController - Navigazione a /fxml/InsegnamentiAttivi.fxml
+2026-02-12 15:37:01 DEBUG i.u.d.l.d.c.InsegnamentiAttiviController - Inizializzazione InsegnamentiAttiviController
+2026-02-12 15:37:01 DEBUG i.u.d.l.d.s.methods.GestioneDocenti - Restituzione profilo docente D001
+2026-02-12 15:37:01 DEBUG i.u.d.l.d.c.InsegnamentiAttiviController - Caricamento insegnamenti per il docente: Marco
+2026-02-12 15:37:01 INFO  i.u.d.l.d.c.InsegnamentiAttiviController - Insegnamenti caricati: 3
+2026-02-12 15:37:01 INFO  i.u.d.l.d.c.RegistrazioneVotiController - Scena caricata correttamente
+2026-02-12 15:37:03 DEBUG i.u.d.l.d.c.InsegnamentiAttiviController - Logout e navigazione a NewLoginPage
+2026-02-12 15:37:03 DEBUG i.u.d.l.d.c.InsegnamentiAttiviController - Navigazione a /fxml/NewLoginPage.fxml
+2026-02-12 15:37:03 DEBUG i.u.d.l.d.controller.LoginController - LoginController avviato
+2026-02-12 15:37:03 INFO  i.u.d.l.d.c.InsegnamentiAttiviController - Scena caricata correttamente
+2026-02-12 15:37:23 DEBUG i.u.d.lpo.dominiouniversitario.App - Chiusura applicazione in corso...
+2026-02-12 15:37:23 DEBUG i.u.d.l.d.s.methods.GestioneStudenti - Salvataggio dati studenti tramite DataInitializable
+2026-02-12 15:37:23 INFO  i.u.d.l.d.s.methods.GestioneStudenti - Recupero lista studenti per serializzazione JSON.
+2026-02-12 15:37:23 INFO  i.u.d.l.d.s.methods.GestioneStudenti - Dati salvati nel file JSON!
+2026-02-12 15:37:23 INFO  i.u.d.l.d.s.methods.GestioneStudenti - Dati studenti salvati con successo
+2026-02-12 15:37:23 DEBUG i.u.d.l.d.s.methods.GestioneDocenti - Salvataggio dati docenti tramite DataInitializable
+2026-02-12 15:37:23 DEBUG i.u.d.l.d.s.methods.GestioneDocenti - Tentativo di salvataggio dei dati docenti al file JSON
+2026-02-12 15:37:23 DEBUG i.u.d.l.d.s.methods.GestioneDocenti - Restituzione della lista di tutti i docenti
+2026-02-12 15:37:23 INFO  i.u.d.l.d.s.methods.GestioneDocenti - Docenti salvati correttamente in docenti.json
+2026-02-12 15:37:23 INFO  i.u.d.l.d.s.methods.GestioneDocenti - Dati docenti salvati con successo tramite DataInitializable
+2026-02-12 15:37:23 DEBUG i.u.d.l.d.s.methods.GestioneAule - Salvataggio dati aule tramite DataInitializable
+2026-02-12 15:37:23 DEBUG i.u.d.l.d.s.methods.GestioneAule - Tentativo di salvataggio dei dati aule al file JSON
+2026-02-12 15:37:23 DEBUG i.u.d.l.d.s.methods.GestioneAule - Restituzione della lista di tutte le aule
+2026-02-12 15:37:23 INFO  i.u.d.l.d.s.methods.GestioneAule - Aule salvate correttamente in aule.json: 16 aule
+2026-02-12 15:37:23 INFO  i.u.d.l.d.s.methods.GestioneAule - Dati aule salvati con successo tramite DataInitializable
+2026-02-12 15:37:23 INFO  i.u.d.lpo.dominiouniversitario.App - Dati salvati correttamente. Applicazione terminata.
+2026-02-12 15:37:24 DEBUG i.u.d.lpo.dominiouniversitario.App - Chiusura applicazione in corso...
+2026-02-12 15:37:24 DEBUG i.u.d.l.d.s.methods.GestioneStudenti - Salvataggio dati studenti tramite DataInitializable
+2026-02-12 15:37:24 INFO  i.u.d.l.d.s.methods.GestioneStudenti - Recupero lista studenti per serializzazione JSON.
+2026-02-12 15:37:24 INFO  i.u.d.l.d.s.methods.GestioneStudenti - Dati salvati nel file JSON!
+2026-02-12 15:37:24 INFO  i.u.d.l.d.s.methods.GestioneStudenti - Dati studenti salvati con successo
+2026-02-12 15:37:24 DEBUG i.u.d.l.d.s.methods.GestioneDocenti - Salvataggio dati docenti tramite DataInitializable
+2026-02-12 15:37:24 DEBUG i.u.d.l.d.s.methods.GestioneDocenti - Tentativo di salvataggio dei dati docenti al file JSON
+2026-02-12 15:37:24 DEBUG i.u.d.l.d.s.methods.GestioneDocenti - Restituzione della lista di tutti i docenti
+2026-02-12 15:37:24 INFO  i.u.d.l.d.s.methods.GestioneDocenti - Docenti salvati correttamente in docenti.json
+2026-02-12 15:37:24 INFO  i.u.d.l.d.s.methods.GestioneDocenti - Dati docenti salvati con successo tramite DataInitializable
+2026-02-12 15:37:24 DEBUG i.u.d.l.d.s.methods.GestioneAule - Salvataggio dati aule tramite DataInitializable
+2026-02-12 15:37:24 DEBUG i.u.d.l.d.s.methods.GestioneAule - Tentativo di salvataggio dei dati aule al file JSON
+2026-02-12 15:37:24 DEBUG i.u.d.l.d.s.methods.GestioneAule - Restituzione della lista di tutte le aule
+2026-02-12 15:37:24 INFO  i.u.d.l.d.s.methods.GestioneAule - Aule salvate correttamente in aule.json: 16 aule
+2026-02-12 15:37:24 INFO  i.u.d.l.d.s.methods.GestioneAule - Dati aule salvati con successo tramite DataInitializable
+2026-02-12 15:37:24 INFO  i.u.d.lpo.dominiouniversitario.App - Dati salvati correttamente. Applicazione terminata.

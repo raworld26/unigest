@@ -1,0 +1,44 @@
+@startuml
+left to right direction
+actor "Admin (Segreteria)" as Admin
+actor "Studente" as Studente
+actor "Docente" as Docente
+
+package "Sistema Unigest" {
+    usecase "Gestione Studenti" as UC1
+    usecase "Gestione Docenti" as UC2
+    usecase "Gestione Aule ed Edifici" as UC3
+    usecase "Gestione Corsi di Laurea" as UC4
+    usecase "Gestione Insegnamenti" as UC5
+    
+    usecase "Prenotazione Appelli d'Esame" as UC6
+    usecase "Visualizzazione Esiti Esami" as UC7
+    usecase "Consultazione Libretto/Carriera" as UC8
+    usecase "Visualizzazione Insegnamenti Attivi" as UC9
+    
+    usecase "Creazione e Gestione Appelli" as UC10
+    usecase "Registrazione Voti" as UC11
+    usecase "Verbalizzazione Voti" as UC12
+    
+    usecase "Login a Sistema" as UC0
+}
+
+Admin --> UC0
+Studente --> UC0
+Docente --> UC0
+
+Admin --> UC1
+Admin --> UC2
+Admin --> UC3
+Admin --> UC4
+Admin --> UC5
+
+Studente --> UC6
+Studente --> UC7
+Studente --> UC8
+Studente --> UC9
+
+Docente --> UC10
+Docente --> UC11
+Docente --> UC12
+@enduml
